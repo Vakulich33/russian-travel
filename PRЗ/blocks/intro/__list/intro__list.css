@@ -1,0 +1,11 @@
+.intro__list {
+  margin-top: 33px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  padding-top: 33px;
+  padding: 0;
+  list-style: none;
+}
