@@ -12,7 +12,7 @@
 @media screen and (min-width: 1024px) and (max-width: 1279px)  {
   .photo-grid { 
    gap: 16px;
-   max-width: calc(100% - 92px);
+   max-width: calc(100% - 70px);
    min-height: 942px;
    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   }

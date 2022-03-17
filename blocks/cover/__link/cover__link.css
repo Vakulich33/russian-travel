@@ -2,3 +2,6 @@
   text-decoration: none;
   color: white;
 }
+.cover__link:hover {
+  opacity: 0.8;
+}
